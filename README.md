@@ -1,6 +1,6 @@
-# quick_talks
-Quick talks powered by github and aparoksha. All the study material and presentations maintained here.
+# Quick Talks
+> Quick talks powered by GitHub and Aparoksha. All the study material and presentations maintained are here.
 
-#Talk 1
-  Topic : 
-  Speaker : Vishnu KS
+|Talk No | Topic                                          |Speaker      | Date      |Material|
+|---|------------------------------------------------|-------------|-----------|-----|
+|1  |What I learned from contributing to open source |[Vishnu Ks](https://github.com/hackerkid)|24 Jan 2017|[Slides](https://github.com/hackerkid/talks/blob/master/pdf/WILFCTOS.pdf)|
