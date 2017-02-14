@@ -4,3 +4,4 @@
 |Talk No | Topic                                          |Speaker      | Date      |Material|
 |---|------------------------------------------------|-------------|-----------|-----|
 |1  |What I learned from contributing to open source |[Vishnu Ks](https://github.com/hackerkid)|24 Jan 2017|[Slides](https://github.com/hackerkid/talks/blob/master/pdf/WILFCTOS.pdf)|
+|2  |Game Development in Javascript using P5JS|[Abhishek Deora](https://github.com/adeora7)|14 Feb 2017|[Slides](https://github.com/adeora7/quick_talks_slides) [Egg Bucket demo](https://github.com/adeora7/egg_and_bucket)|
