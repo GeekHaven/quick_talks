@@ -10,3 +10,4 @@
 | 5 | How to Build a Chatbot in 30 mins               | [Gautham Santhosh](https://gauthamzz.github.io/) | 21 Feb 2017 | [Slides](https://github.com/gauthamzz/talks)                           |
 | 6 | Zero to Deploy                                  | [Chaitanya Yadav](https://github.com/BelieveC)  | 21 Feb 2017 | [Code](https://github.com/BelieveC/ZeroToDeploySource), [Reference](https://www.railstutorial.org/book/beginning)             |
 | 7 | From ' to root : How I hacked BabbleNow         | [Aseem Shrey](https://github.com/LuD1161)      | 26 Feb 2017 | [Slides](https://prezi.com/2paeq2cyiimz/talk-26-02-2017/), [The Hack (Video)](https://www.youtube.com/watch?v=vY5kgIfAkcs)    |
+| 8 | Daily life hacks on LAN and shell               | [Himanshu Shekhar](https://github.com/himanshub16/) | 24 Aug 2017 | [Slides](https://docs.google.com/presentation/d/13Iha76fg6mKivEQNzF1NE4MGtdekKvm3g5DiE0yxRY0/edit?usp=sharing)                           |
