@@ -1,5 +1,9 @@
 # Quick Talks
+
+![alt text](logo1.png)
+
 > Quick talks powered by GitHub. All the study material and presentations maintained are here.
+
 
 | # | Topic                                           | Speaker               | Date        | Material                              |
 |---|-------------------------------------------------|-----------------------|-------------|---------------------------------------|
